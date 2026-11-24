@@ -136,6 +136,7 @@ https://www.reddit.com/r/rust_gamedev/comments/bv7w2f/wgpurs_now_uses_rendy_to_m
 - HDR image viewer https://github.com/mandeep/viewimg
   - Radiance HDR images (and later OpenEXR)
 - https://github.com/KongouDesu/BackupGUI
+- [ParaViz](https://github.com/DimitriTimoz/paraviz) — ParaView-style 3D scientific visualization studio (egui + wgpu): native desktop app, headless CLI, Python bindings and an in-browser WASM app at https://dimitritimoz.github.io/paraviz/
 
 ## Examples
 
